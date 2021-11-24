@@ -1,2 +1,2 @@
 # Python-Mini-Projects
-Beginner practise projects
+Beginner Practise Projects
