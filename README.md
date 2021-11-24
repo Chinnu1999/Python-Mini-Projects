@@ -3,3 +3,4 @@ Beginner Practise Projects
 
 1. Food Tip Calculator
 2. BMI Calculator 
+3. Love Calculator
