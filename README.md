@@ -5,3 +5,4 @@ Beginner Practise Projects
 2. BMI Calculator 
 3. Love Calculator
 4. Treasure Game Project
+5. Rock-Paper-Scissor Game
