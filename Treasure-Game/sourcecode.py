@@ -40,7 +40,7 @@ if choice1 == str("left"):
         elif choice3 == 'yellow':
             print(f"Wow, {name} Excellent You find the treasure. Congrats.........................")
         else:
-            print("you choosen door not exit. Fuck You!...")
+            print("you choosen door not exit.")
     else:
         print("Oh, oh you choose wrong decision. You are hunted by sea animals. Game Over!.....")
 else:
